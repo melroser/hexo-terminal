@@ -1,0 +1,2 @@
+# hexo-terminal
+hex term
